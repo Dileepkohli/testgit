@@ -95,7 +95,7 @@ export default function signin() {
                                 <div className='col-md-6 mt-4 btn2' >
                                     <button className='btn w-100 ap-btn2 w-100 bg-dark text-white d-flex justify-content-center align-items-center border-dark' style={{ height: "37px", borderRadius: 40 }} type="submit">
                                         <img src={AppleIcon} />
-                                        <p className="p2 pt-3 ms-2">Continue with Apple</p>
+                                        <p className="p2 pt-3 ms-2">Continue with Apple icon</p>
                                     </button>
                                 </div>
                             </div><br />
